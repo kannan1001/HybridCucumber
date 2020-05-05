@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44992" started-at="2020-04-30T16:34:56Z" finished-at="2020-04-30T16:35:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44992" started-at="2020-04-30T16:34:56Z" finished-at="2020-04-30T16:35:41Z">
+      <class name="com.testcases.paramertizewithdataprovider">
+        <test-method status="PASS" signature="loginToWordpress(java.lang.String, java.lang.String)[pri:0, instance:com.testcases.paramertizewithdataprovider@42d80b78]" name="loginToWordpress" duration-ms="12484" started-at="2020-04-30T16:34:56Z" data-provider="facebooklogin" finished-at="2020-04-30T16:35:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Geethu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordpress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.paramertizewithdataprovider@42d80b78]" name="tearDown" is-config="true" duration-ms="4129" started-at="2020-04-30T16:35:09Z" finished-at="2020-04-30T16:35:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginToWordpress(java.lang.String, java.lang.String)[pri:0, instance:com.testcases.paramertizewithdataprovider@42d80b78]" name="loginToWordpress" duration-ms="10450" started-at="2020-04-30T16:35:13Z" data-provider="facebooklogin" finished-at="2020-04-30T16:35:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Keerthi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordpress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.paramertizewithdataprovider@42d80b78]" name="tearDown" is-config="true" duration-ms="4300" started-at="2020-04-30T16:35:23Z" finished-at="2020-04-30T16:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginToWordpress(java.lang.String, java.lang.String)[pri:0, instance:com.testcases.paramertizewithdataprovider@42d80b78]" name="loginToWordpress" duration-ms="9491" started-at="2020-04-30T16:35:28Z" data-provider="facebooklogin" finished-at="2020-04-30T16:35:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aaradhana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordpress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.paramertizewithdataprovider@42d80b78]" name="tearDown" is-config="true" duration-ms="4068" started-at="2020-04-30T16:35:37Z" finished-at="2020-04-30T16:35:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.paramertizewithdataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
